@@ -1,6 +1,6 @@
 {
   "name": "@sloy/eslint-config-import",
-  "version": "0.0.1+4",
+  "version": "0.0.1+5",
   "description": "Import and Import sort ESLint config",
   "main": "src/index.js",
   "repository": "https://github.com/sl0y/eslint-config-import",
